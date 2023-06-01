@@ -1,0 +1,7 @@
+{
+  "name": "shoppingcart-sp-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
